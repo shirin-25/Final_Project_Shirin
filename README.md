@@ -1,3 +1,3 @@
 # Project Descripition
 
-Wifi Hotspots in Paris 
+Wifi Hotspots Utilization in Paris 
