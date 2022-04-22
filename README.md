@@ -14,9 +14,13 @@ Paris Opendata dataset :
 
 Files are organised according to its theme :
 
-- d
-- -
-- -
-- -
-- -
-- 
+- data collecting 
+- datasets columns description
+- insights
+- EDA
+- Modules
+- dashboard 
+
+Technologies i used for project : Python, jupyter, Pandas, Seaborn, Matplorlib, skicitlearn, tableau and github
+
+
