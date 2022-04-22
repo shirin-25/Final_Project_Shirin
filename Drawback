@@ -1,3 +1,4 @@
-Lots of missing values in the datasets
+Lots of missing values in the datasets eg: Location and state of site which are unknown 
 there is no documentation for datasets columns
 Lexical errors
+Value aren't validated 
