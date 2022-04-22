@@ -1,1 +1,10 @@
 
+
+Business problem : Predict the number of public Wi-Fi hotspots (stations)  that are used each day in Paris.
+To conclude: 
+Descriptive stats insights about hotspots :
+Min = 13 ; Max = 242 ; Average = 165 ; Quartile 25% = 142
+=> We found out that the dates where values are below the 25% quartile are mostly on Sundays 
+
+Business insight : deactivate 50 Wi-Fi hotspots on Sundays to reduce unnecessary 
+Wi-Fi waves in Paris (reduction of unnecessary pollution)
