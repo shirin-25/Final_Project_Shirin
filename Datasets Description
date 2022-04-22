@@ -1,1 +1,19 @@
 Datasets Description for each Columns (Metadata)
+
+
+Index(['Code Site': Code site, 
+'Date heure début', 'Date heure fin',: in_date_time and out_date_time,
+       'Temps de session en secondes', 'Temps de sessions en minutes',
+       'Nom du site': Name the sites, 
+       'Code postal': Pin code, 
+       'Type d'appareil': gadgets,
+       'Constructeur appareil': brand name, 
+     , 'Version système exploitation': Windows, IOS, ,
+       'Version navigateur': chrome or safari ,
+       'Donnée entrante (Octet)',
+       'Donnée entrante (MégaOctet)', 'Donnée sortante (Octet)',
+       'Donnée sortante (MégaOctet)', 'Paquets entrants', 'Paquets sortants',
+       'Langue utilisateur': language use,
+       'geo_shape', 'geo_point_2d', 'Adresse': Location,
+       'Nom du site.1', 'Code postal.1': identical duplicated columns, 'Nombre de bornes' : Hotspot in paris, 'Etat du site : state of site'],
+      dtype='object')
