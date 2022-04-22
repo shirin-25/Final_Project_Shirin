@@ -14,7 +14,7 @@ Paris Opendata dataset : https://opendata.paris.fr/explore/dataset/paris-wi-fi-u
 
 Tableau: https://public.tableau.com/app/profile/shirin8263/viz/DataVisualization_16506279785080/Story1?publish=yes
 
-Presentation : 
+Presentation : https://docs.google.com/presentation/d/1SLM0BCsRnquiPM_TBTxJ6bReC7wGfjqSeP9vZDAYbOs/edit?usp=sharing
 
 
 Files are organised according to its theme :
