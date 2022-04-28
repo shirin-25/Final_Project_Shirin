@@ -1,4 +1,4 @@
-# Project Descripition
+# Project Description
 
 Public Wi-Fi hotspots analysis in Paris
 
