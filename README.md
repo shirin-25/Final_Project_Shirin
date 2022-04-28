@@ -26,6 +26,6 @@ Files are organised according to its theme :
 - Modules
 - dashboard 
 
-Technologies i used for project : Python, jupyter, Pandas, Seaborn, Matplorlib, skicitlearn, tableau and github
+Technologies i used for project : Python, jupyter, Pandas, Seaborn, Matplorlib, skcitlearn, tableau and github
 
 
